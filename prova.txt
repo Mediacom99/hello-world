@@ -1,3 +1,5 @@
 Questo è un file di prova che voglio provare ad aggiungere al branch main
 
-AGGIUNTA NEL NUOVO BRANCH
+AGGIUNTA NEL NUOVO BRANCH 
+
+Ti rendi conto che devo usare vim per modificare file di testo da Windows Linux Subsystem !!!
